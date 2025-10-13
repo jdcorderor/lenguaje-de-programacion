@@ -28,25 +28,5 @@
         "CompletedAt": "0001-01-01T00:00:00Z",
         "Status": 0,
         "Visible": true
-    },
-    {
-        "ID": 4,
-        "Title": "Test task",
-        "Description": "Test task description",
-        "CreatedAt": "2025-10-13T12:07:09.8947415-04:00",
-        "UpdatedAt": "2025-10-13T12:08:40.53686-04:00",
-        "CompletedAt": "0001-01-01T00:00:00Z",
-        "Status": 0,
-        "Visible": false
-    },
-    {
-        "ID": 5,
-        "Title": "Example",
-        "Description": "Example description",
-        "CreatedAt": "2025-10-13T12:29:21.5090785-04:00",
-        "UpdatedAt": "2025-10-13T12:30:59.8402987-04:00",
-        "CompletedAt": "0001-01-01T00:00:00Z",
-        "Status": 0,
-        "Visible": false
-    },
+    }
 ]
