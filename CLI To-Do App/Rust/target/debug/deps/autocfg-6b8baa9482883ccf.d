@@ -1,0 +1,10 @@
+/run/media/jdcorderor/01DC3E9EAD0BAA50/Users/Usuario/Desktop/lenguaje-de-programacion/CLI To-Do App/rust/target/debug/deps/autocfg-6b8baa9482883ccf.d: /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/run/media/jdcorderor/01DC3E9EAD0BAA50/Users/Usuario/Desktop/lenguaje-de-programacion/CLI To-Do App/rust/target/debug/deps/libautocfg-6b8baa9482883ccf.rlib: /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/run/media/jdcorderor/01DC3E9EAD0BAA50/Users/Usuario/Desktop/lenguaje-de-programacion/CLI To-Do App/rust/target/debug/deps/libautocfg-6b8baa9482883ccf.rmeta: /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs
+
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/lib.rs:
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/error.rs:
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/rustc.rs:
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.5.0/src/version.rs:

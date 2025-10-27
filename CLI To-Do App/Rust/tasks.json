@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "Title": "Read a book",
+    "Description": "Read about plants",
+    "CreatedAt": "2025-10-26T19:54:02.923227587-04:00",
+    "UpdatedAt": "2025-10-26T19:59:14.200438119-04:00",
+    "CompletedAt": "0001-01-01T00:00:00Z",
+    "Status": 0,
+    "Visible": true
+  },
+  {
+    "ID": 2,
+    "Title": "Cook dinner",
+    "Description": "Cook dinner at 7 PM",
+    "CreatedAt": "2025-10-26T19:54:30.321667704-04:00",
+    "UpdatedAt": "2025-10-26T19:59:31.119214852-04:00",
+    "CompletedAt": "0001-01-01T00:00:00Z",
+    "Status": 0,
+    "Visible": true
+  }
+]

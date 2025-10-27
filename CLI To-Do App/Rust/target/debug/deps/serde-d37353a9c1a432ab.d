@@ -1,0 +1,14 @@
+/home/jdcorderor/lenguaje-de-programacion/CLI To-Do App/Rust/target/debug/deps/serde-d37353a9c1a432ab.d: /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/jdcorderor/lenguaje-de-programacion/CLI\ To-Do\ App/Rust/target/debug/build/serde-36cbddabd58e4a8f/out/private.rs
+
+/home/jdcorderor/lenguaje-de-programacion/CLI To-Do App/Rust/target/debug/deps/libserde-d37353a9c1a432ab.rlib: /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/jdcorderor/lenguaje-de-programacion/CLI\ To-Do\ App/Rust/target/debug/build/serde-36cbddabd58e4a8f/out/private.rs
+
+/home/jdcorderor/lenguaje-de-programacion/CLI To-Do App/Rust/target/debug/deps/libserde-d37353a9c1a432ab.rmeta: /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/jdcorderor/lenguaje-de-programacion/CLI\ To-Do\ App/Rust/target/debug/build/serde-36cbddabd58e4a8f/out/private.rs
+
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/jdcorderor/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/jdcorderor/lenguaje-de-programacion/CLI\ To-Do\ App/Rust/target/debug/build/serde-36cbddabd58e4a8f/out/private.rs:
+
+# env-dep:OUT_DIR=/home/jdcorderor/lenguaje-de-programacion/CLI To-Do App/Rust/target/debug/build/serde-36cbddabd58e4a8f/out
